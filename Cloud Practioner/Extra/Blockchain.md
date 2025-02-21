@@ -1,0 +1,2 @@
+- makes it possible to build apps where multiple parties can execute transactions **without the need for a trusted, central authority**.
+- decentralized

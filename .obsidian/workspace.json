@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8fa6b304c047f25c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0aff9ecd143d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68466b8a4281086c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practioner/Compute Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compute Services"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3930a7b7b7772de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea80d4224d4a591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c6ded4b286ce9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbb7087cd77cba18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0dbdc3ff773906d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce61062faa057995",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad75d212c4d7d2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4a27ac5cae4e62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d8d680b50426ba49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cdf4070e9bb99eba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a40e44ff22e7204",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68466b8a4281086c",
+  "lastOpenFiles": [
+    "Cloud Practioner/Databases & Analytics.md",
+    "Cloud Practioner/Images/Pasted image 20250220160913.png",
+    "Cloud Practioner/Cloud Monitoring.md",
+    "Cloud Practioner/Images/Pasted image 20250221110815.png",
+    "Cloud Practioner/Images/Pasted image 20250221105924.png",
+    "Cloud Practioner/Images/Pasted image 20250221105825.png",
+    "Cloud Practioner/Images/Pasted image 20250221105812.png",
+    "Cloud Practioner/Images/Pasted image 20250221105641.png",
+    "Cloud Practioner/Images/Pasted image 20250221105543.png",
+    "Cloud Practioner/Images/Pasted image 20250221105522.png",
+    "Cloud Practioner/Images/Pasted image 20250221104903.png",
+    "Cloud Practioner/Compute Services.md",
+    "Cloud Practioner/Images/Pasted image 20250219143921.png",
+    "Untitled",
+    "Cloud Practioner/Cloud Integration.md",
+    "Cloud Practioner/EC2.md",
+    "Cloud Practioner/AWS Global Infrastructure.md",
+    "Cloud Practioner/Cloud Computing.md",
+    "Cloud Practioner/Deployments & Managing Infrastructure.md",
+    "Cloud Practioner/Amazon S3.md",
+    "Cloud Practioner/Elastic Load Balancing & Auto Scaling Groups.md",
+    "Cloud Practioner/Extra/DNS.md",
+    "Cloud Practioner/Serverless.md",
+    "Cloud Practioner/Extra/Kubernetes.md",
+    "Cloud Practioner/Extra/Docker.md",
+    "Cloud Practioner/Extra/Blockchain.md",
+    "Cloud Practioner/Extra/MongoDB.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Cloud Practioner/Extra/Hadoop.md",
+    "Cloud Practioner/Extra",
+    "Sales Accreditation/Cloud Concepts and AWS Services.md",
+    "Cloud Practioner/Images",
+    "Sales Accreditation/Images",
+    "Sales Accreditation",
+    "Welcome.md",
+    "Cloud Practioner"
+  ]
+}

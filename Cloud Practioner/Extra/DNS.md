@@ -1,0 +1,1 @@
+> collection of rules and records which helps clients understand how to reach a server through URLs
