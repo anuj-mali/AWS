@@ -28,7 +28,7 @@
 	- can use *custom resources* for resources that are not supported
 
 ## CloudFormation + Infrastructure Composer
-![[Pasted image 20250218114417.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218114417.png]] 
 
 # AWS Cloud Development Kit (CDK)
 - define cloud infrastructure using a familiar programming language:
@@ -40,14 +40,14 @@
 - so we can deploy infrastructure and application runtime code together
 	- great for [[Compute Services#AWS Lambda|Lambda]] functions
 	- Great for [[Docker]] containers in [[Compute Services#ECS|ECS]] / [[Compute Services#Amazon EKS|EKS]]
-![[Pasted image 20250218120426.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218120426.png]] 
 
 #### Example
-![[Pasted image 20250218120512.png]]
+![[Cloud Practioner/Images/Pasted image 20250218120512.png]]
 
 # AWS Elastic Beanstalk
 ## Typical architecture: Web App 3-tier
-![[Pasted image 20250218120936.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218120936.png]] 
 
 ## Overview
 - managed service
@@ -104,7 +104,7 @@
 # AWS CodeBuild
 - code building service
 - compiles source code, run tests and produces packages that are ready to be deployed
-![[Pasted image 20250218144939.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218144939.png]] 
 - Benefits
 	- fully managed
 	- serverless
@@ -115,7 +115,7 @@
 - orchestrate different sets to have code automatically pushed to production
 	- code=>build=>test=>Provision=>Deploy
 	- Basis of CI/CD
-![[Pasted image 20250218145233.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218145233.png]] 
 - Benefits
 	- fully managed
 	- compatible with [[#AWS CodeCommit]], [[#AWS CodeBuild]], [[#AWS CodeDeploy]], [[#AWS Elastic Beanstalk]], [[#CloudFormation]], GitHub and custom plugins
@@ -150,14 +150,14 @@
 - installed by default on Amazon Linux AMI & some Ubuntu AMI
 - if instance can't be controlled by SSM, probably an issue with SSM agent
 - can run commands, patch & configure our servers
-![[Pasted image 20250218150617.png]]
+![[Cloud Practioner/Images/Pasted image 20250218150617.png]]
 ## SSM Session Manager
 - allows to start secure shell on EC2 and On-Premises servers
 - No SSH access, bastion hosts or SSH keys required
 - No port 22 needed *(better security)*
 - supports Linux, Windows and MacOS
 - send session log data to S3 or CloudWatch logs
-![[Pasted image 20250218150823.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218150823.png]] 
 
 ## Systems Manager Parameter Store
 - secure storage for configuration and secrets
@@ -166,11 +166,11 @@
 - control access permissions using IAM
 - Version tracking
 - encryption (optional)
-![[Pasted image 20250218151432.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218151432.png]] 
 
 # Summary
 ## Deployment Services
-![[Pasted image 20250218151713.png]] 
+![[Cloud Practioner/Images/Pasted image 20250218151713.png]] 
 
 ## Developer Services
-![[Pasted image 20250218151803.png]]
+![[Cloud Practioner/Images/Pasted image 20250218151803.png]]
