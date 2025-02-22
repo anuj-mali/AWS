@@ -76,3 +76,61 @@
 ![[Pasted image 20250221110815.png]]
 
 # AWS X-Ray
+- tradition debugging method:
+	- test locally
+	- add log statements everywhere
+	- redeploy in production
+- the problem is that log analysis is hard when log formats differ across applications
+- no common view of entire architecture
+- ==the problems are solved by X-Ray==
+- X-Ray allows to do tracing and visual analysis of application
+![[Pasted image 20250222090006.png]] 
+
+## Advantages
+- troubleshooting performance
+- understanding dependencies in microservice architecture
+- pinpoint service issue with tracing
+- review request behavior
+- find errors and exceptions
+- know if we are meeting time SLA
+- where am i throttled?
+- impacted users identification
+
+# Amazon CodeGuru
+- ML-powered service
+- automated code reviews and application performance recommendations
+- Two functionalities:
+	- **CodeGuru Reviewer**: automated code reviews for static code analysis (development)
+	- **CodeGuru Profiler**: recommendations about app performance during runtime (production)
+![[Pasted image 20250222090511.png]] 
+## CodeGuru Reviewer
+- looks at commits and tells lines of code that might be incorrect
+- identify critical issues, security vulnerabilities and hard-to-find bugs
+- *Example*: common coding best practices, resource leaks, security detection, input validation
+- user ML and automated reasoning
+- Supports Java and Python
+- Integrates with GitHub, Bitbucket and AWS CodeCommit
+## CodeGuru Profiler
+- for production or pre-prod
+- helps understand runtime behaviour
+- *Example*: identify if application is consuming excessive CPU capacity on a logging routine
+- Features:
+	- identify and remove code inefficiencies
+	- improve application performance
+	- decrease compute costs
+	- provides heap summary
+	- anomaly detection
+- supports apps running on AWS or on-premises
+# AWS Health Dashboard
+## Service History
+- shows all regions, all services health
+- shows historical information for each day
+## Your Account
+- provides alerts and remediation guidance when AWS is experiencing events that might impact us
+- ==Service Health Dashboards displays general status of AWS services, Account Health Dashboard gives a personalized view into the performance and availability of the AWS services underlying our AWS resources==
+- displays relevant and timely information to help manage events in progress and provide proactive notification to help plan for scheduled activities
+- can aggregate data from an entire AWS Organization
+- global service
+# Summary
+![[Pasted image 20250222091708.png]] 
+
