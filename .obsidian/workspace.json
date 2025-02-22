@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b3dc93b62ae63b",
+        "id": "3e0369ade1534277",
         "type": "tabs",
         "children": [
           {
-            "id": "4beb0deebc0082c9",
+            "id": "52c28dc0e36b8b5c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cloud Practioner/Images/Pasted image 20250222090006.png"
+                "file": "Cloud Practioner/VPC & Networking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250222090006"
+              "icon": "lucide-file",
+              "title": "VPC & Networking"
             }
           }
         ]
@@ -165,29 +167,31 @@
   },
   "active": "17c6ded4b286ce9a",
   "lastOpenFiles": [
+    "Cloud Practioner/Images/Pasted image 20250222123701.png",
+    "Cloud Practioner/Images/Pasted image 20250222122826.png",
+    "Cloud Practioner/VPC & Networking.md",
+    "Pasted image 20250222122647.png",
+    "Cloud Practioner/Images/Pasted image 20250222122024.png",
+    "Cloud Practioner/Images/Pasted image 20250222122444.png",
+    "Cloud Practioner/Images/Pasted image 20250222093909.png",
+    "Cloud Practioner/Images/Pasted image 20250222120418.png",
+    "Cloud Practioner/Images/Pasted image 20250222100924.png",
+    "Cloud Practioner/Images/Pasted image 20250222100856.png",
+    "Cloud Practioner/Images/Pasted image 20250222094247.png",
+    "Cloud Practioner/Images/Pasted image 20250222094005.png",
     "Cloud Practioner/Cloud Monitoring.md",
-    "Cloud Practioner/Images/Pasted image 20250222091708.png",
-    "Cloud Practioner/Images/Pasted image 20250222090511.png",
-    "Cloud Practioner/Images/Pasted image 20250222090006.png",
     "Cloud Practioner/Amazon S3.md",
     "Cloud Practioner/Elastic Load Balancing & Auto Scaling Groups.md",
     "Cloud Practioner/EC2.md",
     "Cloud Practioner/Serverless.md",
     "Cloud Practioner/Deployments & Managing Infrastructure.md",
     "Cloud.md",
-    "Cloud Practioner/Images/Pasted image 20250218151803.png",
-    "Cloud Practioner/Images/Pasted image 20250218120936.png",
     "Cloud Practioner/Cloud Computing.md",
     "Cloud Practioner/AWS Global Infrastructure.md",
     "Cloud Practioner/Cloud Integration.md",
     "Cloud Practioner/Compute Services.md",
     "Cloud Practioner/Databases & Analytics.md",
     "Untitled.canvas",
-    "Cloud Practioner/Images/Pasted image 20250220160913.png",
-    "Cloud Practioner/Images/Pasted image 20250221110815.png",
-    "Cloud Practioner/Images/Pasted image 20250221105924.png",
-    "Cloud Practioner/Images/Pasted image 20250221105825.png",
-    "Cloud Practioner/Images/Pasted image 20250221105812.png",
     "Untitled",
     "Cloud Practioner/Extra/DNS.md",
     "Cloud Practioner/Extra/Kubernetes.md",
