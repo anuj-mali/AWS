@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0369ade1534277",
+        "id": "fdc583a8562baf1e",
         "type": "tabs",
         "children": [
           {
-            "id": "52c28dc0e36b8b5c",
+            "id": "354c5c4dd4e5ed8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,20 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c6ded4b286ce9a",
+  "active": "354c5c4dd4e5ed8c",
   "lastOpenFiles": [
+    "Cloud Practioner/Images/Pasted image 20250222124603.png",
+    "Cloud Practioner/VPC & Networking.md",
+    "Cloud Practioner/Images/Pasted image 20250222124625.png",
+    "Cloud Practioner/Images/Pasted image 20250222124204.png",
+    "Cloud Practioner/Images/Pasted image 20250222124520.png",
+    "Cloud Practioner/Images/Pasted image 20250222124054.png",
     "Cloud Practioner/Images/Pasted image 20250222123701.png",
     "Cloud Practioner/Images/Pasted image 20250222122826.png",
-    "Cloud Practioner/VPC & Networking.md",
     "Pasted image 20250222122647.png",
     "Cloud Practioner/Images/Pasted image 20250222122024.png",
     "Cloud Practioner/Images/Pasted image 20250222122444.png",
-    "Cloud Practioner/Images/Pasted image 20250222093909.png",
-    "Cloud Practioner/Images/Pasted image 20250222120418.png",
-    "Cloud Practioner/Images/Pasted image 20250222100924.png",
-    "Cloud Practioner/Images/Pasted image 20250222100856.png",
-    "Cloud Practioner/Images/Pasted image 20250222094247.png",
-    "Cloud Practioner/Images/Pasted image 20250222094005.png",
     "Cloud Practioner/Cloud Monitoring.md",
     "Cloud Practioner/Amazon S3.md",
     "Cloud Practioner/Elastic Load Balancing & Auto Scaling Groups.md",

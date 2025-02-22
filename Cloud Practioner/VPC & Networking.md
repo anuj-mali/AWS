@@ -79,3 +79,19 @@ private network to deploy resource (regional resource)
 - connection is private, fast and secure
 - goes over private network
 - more expensive and takes longer to establish
+
+# AWS Client VPN
+- connect from computer using OpenVPN to private network in AWS and on-premises
+- allows to connect to EC2 instances over a private IP (just as if part of private VPC network)
+- goes over public internet
+![[Pasted image 20250222124054.png]] 
+# Transit Gateways
+![[Pasted image 20250222124204.png]]
+> network topology on AWS can be complicated if we have large infrastructure on AWS as shown in image above.
+- to solve this, Transit Gateway service was created.
+- for having a transitive peering between thousands of VPC and on-premises with a hub-and-spoke (star) connection
+- one single gateway to provide this functionality
+- works with [[#Direct Connect (DX)]], VPN connections
+![[Pasted image 20250222124520.png]] 
+# Summary
+![[Pasted image 20250222124603.png]] ![[Pasted image 20250222124625.png]]
