@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "db64dbe3be9dc4a9",
+        "id": "833f319cb1a94705",
         "type": "tabs",
         "children": [
           {
-            "id": "211c1a2d186ae26b",
+            "id": "07ce3b094cb64a30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250225161211.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250225161211"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "api gateway",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce61062faa057995",
@@ -162,25 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "211c1a2d186ae26b",
+  "active": "17c6ded4b286ce9a",
   "lastOpenFiles": [
+    "Advanced Identity.md",
+    "Images/Pasted image 20250225162619.png",
+    "Images/Pasted image 20250225162548.png",
+    "Images/Pasted image 20250225161403.png",
+    "Images/Pasted image 20250225161318.png",
+    "Images/Pasted image 20250225161211.png",
+    "Images/Pasted image 20250225160512.png",
+    "Extra/Microsoft Active Directory.md",
+    "Images/Pasted image 20250225160729.png",
+    "Amazon S3.md",
+    "Images/Pasted image 20250225155252.png",
     "Images/Pasted image 20250225143643.png",
     "Account Management, Billing & Support.md",
     "Images/Pasted image 20250225152847.png",
-    "Images/Pasted image 20250225152813.png",
-    "Images/Pasted image 20250225144525.png",
-    "Images/Pasted image 20250225110000.png",
-    "Images/Pasted image 20250225143532.png",
-    "Images/Pasted image 20250225143255.png",
-    "Images/Pasted image 20250225141928.png",
-    "Images/Pasted image 20250225141848.png",
-    "Images/Pasted image 20250225141756.png",
     "Machine Learning.md",
     "Identity and Access Management.md",
     "Security & Compliance.md",
     "EC2.md",
     "Extra/DDoS.md",
-    "Amazon S3.md",
     "Databases & Analytics.md",
     "VPC & Networking.md",
     "Cloud Monitoring.md",
@@ -200,9 +203,7 @@
     "Extra/Blockchain.md",
     "Extra/MongoDB.md",
     "Untitled 1.canvas",
-    "Extra/Hadoop.md",
     "Extra",
-    "Sales Accreditation/Cloud Concepts and AWS Services.md",
     "Images",
     "Sales Accreditation/Images",
     "Sales Accreditation",
