@@ -1,0 +1,1 @@
+> stressing an application by creating disruptive events (e.g. sudden increase in CPU or memory), observing how the system responds, and implementing improvements

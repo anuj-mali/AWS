@@ -1,0 +1,3 @@
+- Internet of Things
+- network of internet-connected devices that are able to collect and transfer data
+- could be a connected car, light, fridge, ...
