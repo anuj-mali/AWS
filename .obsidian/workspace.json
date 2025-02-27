@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4ac722f6b4722bee",
+        "id": "6f58ca0293151032",
         "type": "tabs",
         "children": [
           {
-            "id": "5f70aade6da8b36a",
+            "id": "0a78832925842723",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted image 20250227135456.png"
+                "file": "Images/Pasted image 20250227203341.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250227135456"
-            }
-          },
-          {
-            "id": "ddc53ba539a64121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Architecting & Ecosystem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Architecting & Ecosystem"
+              "title": "Pasted image 20250227203341"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce61062faa057995",
@@ -179,27 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddc53ba539a64121",
+  "active": "17c6ded4b286ce9a",
   "lastOpenFiles": [
-    "Images/Pasted image 20250227135456.png",
     "AWS Architecting & Ecosystem.md",
+    "Images/Pasted image 20250227204112.png",
+    "Images/Pasted image 20250227203751.png",
+    "Images/Pasted image 20250227203436.png",
+    "AWS Global Infrastructure.md",
+    "Pasted image 20250227203405.png",
+    "Images/Pasted image 20250227203341.png",
+    "Compute Services.md",
+    "Cloud Integration.md",
+    "Account Management, Billing & Support.md",
     "Other Services.md",
-    "Images/Pasted image 20250227140829.png",
-    "Images/Pasted image 20250227140334.png",
-    "Images/Pasted image 20250227135904.png",
+    "Images/Pasted image 20250227135456.png",
+    "Images/Pasted image 20250227162346.png",
+    "Images/Pasted image 20250227162720.png",
+    "Images/Pasted image 20250227162637.png",
+    "Images/Pasted image 20250227162350.png",
     "Extra/Chaos Engineering.md",
-    "Images/Pasted image 20250227134528.png",
-    "Images/Pasted image 20250227111337.png",
-    "Images/Pasted image 20250227121227.png",
-    "Images/Pasted image 20250227120645.png",
-    "Images/Pasted image 20250227112043.png",
     "VPC & Networking.md",
-    "Images/Pasted image 20250227104907.png",
     "Extra/IoT.md",
     "Advanced Identity.md",
     "Extra/Microsoft Active Directory.md",
     "Amazon S3.md",
-    "Account Management, Billing & Support.md",
     "Machine Learning.md",
     "Identity and Access Management.md",
     "Security & Compliance.md",
@@ -212,9 +199,6 @@
     "Deployments & Managing Infrastructure.md",
     "Cloud.md",
     "Cloud Computing.md",
-    "AWS Global Infrastructure.md",
-    "Cloud Integration.md",
-    "Compute Services.md",
     "Untitled.canvas",
     "Untitled",
     "Extra/DNS.md",
