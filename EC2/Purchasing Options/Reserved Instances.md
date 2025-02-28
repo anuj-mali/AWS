@@ -1,0 +1,11 @@
+#ec2 #purchase-option
+- up to 72% discount compared to [[On-Demand]]
+- reserve a specific instance attribute (instance type, region, tenancy, OS)
+- **Reservation Period** - 1 year (+discount) or 3 years (+++discount)
+- **Payment Options** - No upfront (+), Partial Upfront (++), All Upfront (+++)
+- **Scope** - Regional or Zonal
+- **Recommended**: *steady-state usage applications* (database)
+- *can buy and sell in the Reserved Instance Marketplace* if not needed anymore
+- **Convertible Reserved Instance**
+	- Can change the EC2 type, family, OS, scope and tenancy
+	- Less discount (up to 66% of on demand price) than reserved instances

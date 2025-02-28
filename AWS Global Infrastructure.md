@@ -17,6 +17,9 @@
 - made up of multiple [[#Availability Zones]]
 ##### Availability Zones
 - made of multiple data centers
+- redundant power, networking and connectivity
+- isolated from each other
+- connected with high bandwidth, ultra-low latency networking
 ##### Edge Locations
 - Points of Presence
 - for content delivery as close as possible to users

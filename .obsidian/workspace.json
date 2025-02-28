@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f58ca0293151032",
+        "id": "5f39064bd3b76223",
         "type": "tabs",
         "children": [
           {
-            "id": "0a78832925842723",
+            "id": "740805292d190038",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250227203341.png"
+                "file": "Cloud Monitoring.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250227203341"
+              "icon": "lucide-file",
+              "title": "Cloud Monitoring"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,50 +165,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c6ded4b286ce9a",
+  "active": "740805292d190038",
   "lastOpenFiles": [
-    "AWS Architecting & Ecosystem.md",
+    "Cloud Computing.md",
+    "Cloud Integration.md",
+    "Cloud Monitoring.md",
+    "AWS Global Infrastructure.md",
+    "AWS CloudShell.md",
+    "Advanced Identity.md",
+    "Account Management, Billing & Support.md",
+    "EC2/Purchasing Options/Capacity Reservations.md",
+    "EC2/AMI - Amazon Machine Image.md",
+    "EC2/Storage Options/Instance Store.md",
+    "EC2/Storage Options/EFS - Elastic File System.md",
+    "EC2/Storage Options/EBS Volume.md",
+    "EC2/Storage Options/Amazon FSx.md",
+    "EC2/Purchasing Options/Spot Instance.md",
+    "EC2/Purchasing Options/Savings Plan.md",
+    "EC2/Storage.md",
+    "EC2/Instance Types/Accelerated Computing.md",
+    "EC2/Purchasing Options/Reserved Instances.md",
+    "EC2/Purchasing Options/On-Demand.md",
+    "EC2/Purchasing Options/Dedicated Instances.md",
+    "EC2/Purchasing Options/Dedicated Host.md",
+    "EC2/Instance Types/Storage Optimized.md",
+    "EC2/Instance Types/Memory Optimized.md",
+    "EC2/Instance Types/HPC Optimized.md",
+    "EC2/Instance Types/General Purpose.md",
+    "EC2/Instance Types/Compute Optimized.md",
+    "Identity and Access Management/Accessing AWS",
+    "Identity and Access Management/Security Tools",
+    "Identity and Access Management",
+    "EC2/Storage Options",
+    "EC2/Purchasing Options",
+    "EC2/Instance Types",
+    "EC2",
+    "Images/Pasted image 20250227203341.png",
     "Images/Pasted image 20250227204112.png",
     "Images/Pasted image 20250227203751.png",
     "Images/Pasted image 20250227203436.png",
-    "AWS Global Infrastructure.md",
     "Pasted image 20250227203405.png",
-    "Images/Pasted image 20250227203341.png",
-    "Compute Services.md",
-    "Cloud Integration.md",
-    "Account Management, Billing & Support.md",
-    "Other Services.md",
     "Images/Pasted image 20250227135456.png",
     "Images/Pasted image 20250227162346.png",
     "Images/Pasted image 20250227162720.png",
     "Images/Pasted image 20250227162637.png",
     "Images/Pasted image 20250227162350.png",
-    "Extra/Chaos Engineering.md",
-    "VPC & Networking.md",
-    "Extra/IoT.md",
-    "Advanced Identity.md",
-    "Extra/Microsoft Active Directory.md",
-    "Amazon S3.md",
-    "Machine Learning.md",
-    "Identity and Access Management.md",
-    "Security & Compliance.md",
-    "EC2.md",
-    "Extra/DDoS.md",
-    "Databases & Analytics.md",
-    "Cloud Monitoring.md",
-    "Elastic Load Balancing & Auto Scaling Groups.md",
-    "Serverless.md",
-    "Deployments & Managing Infrastructure.md",
-    "Cloud.md",
-    "Cloud Computing.md",
     "Untitled.canvas",
-    "Untitled",
-    "Extra/DNS.md",
     "Untitled 1.canvas",
     "Extra",
     "Images",
-    "Sales Accreditation/Images",
-    "Sales Accreditation",
-    "Cloud Practioner"
+    "Sales Accreditation/Images"
   ]
 }
